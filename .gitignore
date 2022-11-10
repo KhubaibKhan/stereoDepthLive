@@ -1,7 +1,7 @@
-samples
-imgs
-__pycache__
-cameraCalibration.ipynb
+samples/
+imgs/
+__pycache__/
+*.ipynb
 test.py
 read_bag.py
 detect_distance.py
