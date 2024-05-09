@@ -1,13 +1,5 @@
 # stereoDepthLive
 
-
-https://github.com/KhubaibKhan/stereoDepthLive/assets/42062001/bcbdb9be-e9bd-4737-829c-56f5ebe4302b
-
-
-
-https://github.com/KhubaibKhan/stereoDepthLive/assets/42062001/33bef27d-371d-49a9-a3f6-f199a3dbc16a
-
-
-
-https://github.com/KhubaibKhan/stereoDepthLive/assets/42062001/c05fb5eb-3aa6-44d4-b23d-badad0959b54
-
+L|R|D
+--|--|--
+![l](https://github.com/KhubaibKhan/stereoDepthLive/assets/42062001/519a75db-e0eb-4488-9f3c-67d680c0ff25) | ![r](https://github.com/KhubaibKhan/stereoDepthLive/assets/42062001/adc598be-cfc6-4d60-97fe-e9b9f8164d7d) | ![d](https://github.com/KhubaibKhan/stereoDepthLive/assets/42062001/36680f62-e6ac-4201-a8da-b77fb7e77110)
